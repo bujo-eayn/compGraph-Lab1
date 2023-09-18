@@ -57,7 +57,7 @@ To run this project, you will need:
     student_email_generator/
   │
   ├── main.py  # Main Python script
-  ├── test_file_3a.xlsx              # Test data (sample Excel file)
+  ├── test_file_3c.xlsx              # Test data (sample Excel file)
   ├── test_file_3b.xlsx              # Test data (sample Excel file)
   ├── README.md                   # Project documentation
   ├── logs/                       # Log files

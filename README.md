@@ -40,7 +40,7 @@ To run this project, you will need:
   ```bash
     pip install pandas transformers  # Add other necessary libraries
   ```
-##Usage
+## Usage
 
 1 Place the Excel file containing student data (e.g., test_data.xlsx) in the project directory.
 
@@ -51,7 +51,7 @@ To run this project, you will need:
   ```
 3. Check the generated output files, logs, and results.
 
-##Project Structure
+## Project Structure
 
   ```bash
     student_email_generator/
@@ -65,11 +65,11 @@ To run this project, you will need:
   └── .gitignore                  # Git ignore file
   ```
 
-##Contibuting
+## Contibuting
 
 Contributions are welcome! Please follow the [contributing guidelines](https://github.com/github/docs/blob/main/CONTRIBUTING.md) for this project.
 
-##License
+## License
 
 This project is licensed under the [MIT License](https://mit-license.org/).
 

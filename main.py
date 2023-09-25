@@ -101,3 +101,24 @@ print(f"Modified data saved to {output_file_path}")
 print(f"Male students saved to {output_male_path}")
 print(f"Female students saved to {output_female_path}")
 print(f"Log file saved to {log_file_path}")
+
+# Replace these with the paths to your output Excel files
+output_female_path = 'output/output_test_file_3b_female.xlsx'
+output_male_path = 'output/output_test_file_3b_male.xlsx'
+output_file_path = 'output/output_test_file_3b.xlsx'
+
+# Read the three output Excel files into Pandas DataFrames
+df_female = pd.read_excel(output_female_path)
+df_male = pd.read_excel(output_male_path)
+df_output = pd.read_excel(output_file_path)
+
+# Merge the DataFrames into one
+merged_df = pd.concat([df_female, df_male, df_output], ignore_index=True)
+
+# Specify the path for the merged Excel file
+merged_file_path = 'output/merged_output.xlsx'
+
+# Write the merged DataFrame to a new Excel file
+merged_df.to_excel(merged_file_path, index=False)
+
+print(f'Merged data saved to {merged_file_path}')

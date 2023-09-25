@@ -83,7 +83,7 @@ female_students.to_excel(output_female_path, index=False)
 shuffled_data = data.sample(frac=1).reset_index(drop=True)
 
 # Define the output JSON file path
-output_json_file = "shuffled_student_data.json"
+output_json_file = "output/shuffled_student_data.json"
 
 # Save the shuffled data to a JSON file
 shuffled_data.to_json(output_json_file, orient="records", lines=True)

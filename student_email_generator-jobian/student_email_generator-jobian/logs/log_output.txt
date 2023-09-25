@@ -14,3 +14,19 @@
 2023-09-20 23:56:09 - INFO - Ng'ang'a, Ian Mutuge
 2023-09-20 23:56:09 - INFO - Orony, Charis Ng'wono
 2023-09-20 23:56:09 - INFO - Waweru, Monika Ng'endo
+2023-09-25 14:50:56 - INFO - Number of Male Students: 40
+2023-09-25 14:50:56 - INFO - Number of Female Students: 24
+2023-09-25 14:50:56 - INFO - Names with Special Characters:
+2023-09-25 14:50:56 - INFO - Akong'o, Shanelle Hilda Anyango
+2023-09-25 14:50:56 - INFO - Ang'edu, Jude Ocomil
+2023-09-25 14:50:56 - INFO - Ng'ang'a, Ian Mutuge
+2023-09-25 14:50:56 - INFO - Orony, Charis Ng'wono
+2023-09-25 14:50:56 - INFO - Waweru, Monika Ng'endo
+2023-09-25 14:56:30 - INFO - Number of Male Students: 40
+2023-09-25 14:56:30 - INFO - Number of Female Students: 24
+2023-09-25 14:56:30 - INFO - Names with Special Characters:
+2023-09-25 14:56:30 - INFO - Akong'o, Shanelle Hilda Anyango
+2023-09-25 14:56:30 - INFO - Ang'edu, Jude Ocomil
+2023-09-25 14:56:30 - INFO - Ng'ang'a, Ian Mutuge
+2023-09-25 14:56:30 - INFO - Orony, Charis Ng'wono
+2023-09-25 14:56:30 - INFO - Waweru, Monika Ng'endo
